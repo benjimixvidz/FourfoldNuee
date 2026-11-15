@@ -1,0 +1,29 @@
+Fourfold Nuée — Freeware License
+
+Copyright (c) 2026 Benjamin Pesqueux. All rights reserved.
+
+This plugin is distributed free of charge, in binary form only.
+
+You may:
+
+- download, install and use the plugin for any purpose, including
+  commercial music production;
+- share the unmodified distribution package, free of charge, provided
+  this license file stays with it.
+
+You may not:
+
+- sell the plugin, charge for its distribution, or include it in a
+  paid bundle, without the author's written permission;
+- modify, decompile, disassemble or reverse engineer the plugin, or
+  create derivative works from it;
+- use any part of its source code. The source code is not public and
+  remains the exclusive property of the author; no license, express
+  or implied, is granted on it.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
+ITS USE.
